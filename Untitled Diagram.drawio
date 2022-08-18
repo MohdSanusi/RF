@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-18T02:43:31.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 OPR/89.0.4447.83" etag="HaqH05lAV-qedJOJ5Rfm" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-18T04:32:46.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 OPR/89.0.4447.83" etag="8EwdVI4qt6eFhglQVM-r" version="20.2.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1382" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -349,7 +349,7 @@
             <mxRectangle width="30" height="270" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tg3tCqWO-wnEFZZeCLN1-127" value="institute_name char(50) NOT NULL&#xa;&#xa;edu_lvl char(50) NOT NULL&#xa;&#xa;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="Tg3tCqWO-wnEFZZeCLN1-125">
+        <mxCell id="Tg3tCqWO-wnEFZZeCLN1-127" value="institute_name char(50) NOT NULL&#xa;&#xa;edu_lvl char(50) NOT NULL&#xa;&#xa;specialize char(50) NOT NULL&#xa;&#xa;cgpa float(4) NOT NULL&#xa;&#xa;grade char(2) NOT NULL&#xa;&#xa;conferm_date date NOT NULL&#xa;&#xa;study_start date NOT NULL&#xa;&#xa;study_end date NOT NULL&#xa;&#xa;major char(50) NOT NULL&#xa;&#xa;minor char(50) NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="Tg3tCqWO-wnEFZZeCLN1-125">
           <mxGeometry x="30" width="220" height="270" as="geometry">
             <mxRectangle width="220" height="270" as="alternateBounds" />
           </mxGeometry>
